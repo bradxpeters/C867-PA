@@ -1,0 +1,3 @@
+/Users/brad/School/scripting/C867-PA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/brad/School/scripting/C867-PA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/brad/School/scripting/C867-PA/cmake-build-debug/CMakeFiles/C867_PA.dir
